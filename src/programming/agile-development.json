@@ -27,6 +27,7 @@
         {
           "term": "Backlog Grooming",
           "definition": "Occurs once per sprint. Add new user stories to the backlog, reprioritize stories, and break down stories into tasks."
+          "ownership": "Product Owner"
         },
         {
           "term": "Planning Poker",
